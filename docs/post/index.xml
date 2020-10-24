@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on IT Deep Dive</title>
-    <link>https://itdeepdive.com/post/</link>
+    <link>https://rugginic.github.io/itdeepdive.com/post/</link>
     <description>Recent content in Posts on IT Deep Dive</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 08 Mar 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://itdeepdive.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rugginic.github.io/itdeepdive.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Code Sample</title>
-      <link>https://itdeepdive.com/post/2016-03-08-code-sample/</link>
+      <link>https://rugginic.github.io/itdeepdive.com/post/2016-03-08-code-sample/</link>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://itdeepdive.com/post/2016-03-08-code-sample/</guid>
+      <guid>https://rugginic.github.io/itdeepdive.com/post/2016-03-08-code-sample/</guid>
       <description>&lt;p&gt;The following are two code samples using syntax highlighting.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Test markdown</title>
-      <link>https://itdeepdive.com/post/2015-02-20-test-markdown/</link>
+      <link>https://rugginic.github.io/itdeepdive.com/post/2015-02-20-test-markdown/</link>
       <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://itdeepdive.com/post/2015-02-20-test-markdown/</guid>
+      <guid>https://rugginic.github.io/itdeepdive.com/post/2015-02-20-test-markdown/</guid>
       <description>You can write regular markdown here and Hugo will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it&amp;rsquo;ll teach you how to transform regular text into bold/italics/headings/tables/etc.
 Here is some bold text
 Here is a secondary heading Here&amp;rsquo;s a useless table:
