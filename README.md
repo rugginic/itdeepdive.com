@@ -1,3 +1,3 @@
 # itdeepdive.com
 
-baseurl = "https://rugginic.github.io/itdeepdive.com/"
+baseurl = "https://itdeepdive.com/"
