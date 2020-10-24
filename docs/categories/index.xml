@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on IT Deep Dive</title>
-    <link>https://rugginic.github.io/itdeepdive.com/categories/</link>
+    <link>https://itdeepdive.com/categories/</link>
     <description>Recent content in Categories on IT Deep Dive</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://rugginic.github.io/itdeepdive.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://itdeepdive.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

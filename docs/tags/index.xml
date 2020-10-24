@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on IT Deep Dive</title>
-    <link>https://rugginic.github.io/itdeepdive.com/tags/</link>
+    <link>https://itdeepdive.com/tags/</link>
     <description>Recent content in Tags on IT Deep Dive</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 08 Mar 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rugginic.github.io/itdeepdive.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://itdeepdive.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>code</title>
-      <link>https://rugginic.github.io/itdeepdive.com/tags/code/</link>
+      <link>https://itdeepdive.com/tags/code/</link>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://rugginic.github.io/itdeepdive.com/tags/code/</guid>
+      <guid>https://itdeepdive.com/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>example</title>
-      <link>https://rugginic.github.io/itdeepdive.com/tags/example/</link>
+      <link>https://itdeepdive.com/tags/example/</link>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://rugginic.github.io/itdeepdive.com/tags/example/</guid>
+      <guid>https://itdeepdive.com/tags/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://rugginic.github.io/itdeepdive.com/tags/markdown/</link>
+      <link>https://itdeepdive.com/tags/markdown/</link>
       <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://rugginic.github.io/itdeepdive.com/tags/markdown/</guid>
+      <guid>https://itdeepdive.com/tags/markdown/</guid>
       <description></description>
     </item>
     
